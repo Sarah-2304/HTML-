@@ -1,0 +1,29 @@
+h3{
+    color: red;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
+button{
+    color: white;
+    font-size: large;
+    font-weight: 600;
+    width: 150px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: white;
+}
+
+
+form{
+    background-color: yellowgreen;
+    border: solid rgb(219, 106, 8) 3px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-right: 650px;
+}
